@@ -1,2 +1,2 @@
 # therightfly
-Flyfishing fly suggestions based on multiple parameters
+Flyfishing fly suggestions based on various parameters
